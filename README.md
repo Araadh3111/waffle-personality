@@ -16,6 +16,7 @@ Waffle Personality is a quickly made web dev project to refine my web developmen
 
 ## JavaScript
 The javascript has variabels for button and onclick functions to do something when the button is clicked and the javascript contains the logic for deciding the personality test
+the javascript also uses set timeout to delay the fadeout upon clicking the first button
 
 ## Personalities
 - Waffle Warrior
